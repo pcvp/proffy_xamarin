@@ -4,11 +4,11 @@ using Android.OS;
 using Android.Util;
 using System.Threading.Tasks;
 
-namespace TrinksPro.Droid {
+namespace Proffy.Droid {
 
     [Activity(Theme = "@style/MainTheme.Splash", MainLauncher = true, NoHistory = true)]
     public class SplashScreenActivity : Activity {
-        private static readonly string TAG = "TrinksPro:" + typeof(SplashScreenActivity).Name;
+        private static readonly string TAG = "Proffy:" + typeof(SplashScreenActivity).Name;
 
         protected override void OnCreate(Bundle savedInstanceState) {
             base.OnCreate(savedInstanceState);

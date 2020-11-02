@@ -1,4 +1,5 @@
 ﻿using System;
+using Proffy.Views.Main;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 

@@ -133,4 +133,8 @@
       <Name>Proffy</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Background.png" />
+    <BundleResource Include="Resources\SplashLogo.png" />
+  </ItemGroup>
 </Project>
